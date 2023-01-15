@@ -7,13 +7,7 @@ You can also drag the image up or down, and if you move beyond a certain area, y
 
 ## Video
 
-https://github.com/jinhan38/photo_detail/tree/master/video/example_video.gif
 [alt text](https://github.com/jinhan38/photo_detail/tree/master/video/example_video.gif)
-[alt text](https://github.com/jinhan38/photo_detail/tree/master/video/example_video_w.gif) 
-https://github.com/jinhan38/photo_detail/tree/master/video/example_video_w.gif
-                   
-
-## Usage
 
 ```dart
 import 'package:flutter/material.dart';
