@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:photo_detail/photo_detail.dart';
 
-import 'photo_detail.dart';
-
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
 
